@@ -1,0 +1,30 @@
+.libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+    background-color:#80C4E9;
+    color: #FF7F3E;
+}
+
+.image1 {
+    border-radius: 50%;
+}
+
+.carousel-item img {
+    height:500px;
+    width: 600px;
+    object-fit: contain;
+}
+body{
+    background-color: rgb(248 249 250);
+
+}
+
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    filter: invert();
+}
+
+.contact{
+    background-color:#80C4E9;
+
+}
